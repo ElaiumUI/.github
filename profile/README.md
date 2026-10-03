@@ -89,4 +89,4 @@ Apple Safari	✅ `-webkit`	✅ Full	Supported
 Microsoft Edge	✅ Full	✅ Full	Supported
 ---
 📜 License
-Distributed under the MIT License. Free for personal and commercial projects.
+No license SAWFGRAGWF
