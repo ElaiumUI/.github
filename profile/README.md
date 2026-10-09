@@ -83,10 +83,17 @@ function setLanguage(lang) {
 ---
 🌐 Browser Compatibility
 Browser	Backdrop Blur	Gloss Highlights	Status
-Google Chrome	✅ Full	✅ Full	Supported
+
+Google Chrome	✅
+
+Full	✅ Full	Supported
+
 Mozilla Firefox	✅ Full	✅ Full	Supported
+
 Apple Safari	✅ `-webkit`	✅ Full	Supported
+
 Microsoft Edge	✅ Full	✅ Full	Supported
+---
 
 # Screenshots
 <p align="center"><img src="ourwebsite.png"></p>
