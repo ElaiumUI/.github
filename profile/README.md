@@ -87,6 +87,10 @@ Google Chrome	✅ Full	✅ Full	Supported
 Mozilla Firefox	✅ Full	✅ Full	Supported
 Apple Safari	✅ `-webkit`	✅ Full	Supported
 Microsoft Edge	✅ Full	✅ Full	Supported
+
+# Screenshots
+<p align="center"><img src="ourwebsite.png"></p>
+<p align="center"><img src="weather.png"></p>
 ---
 📜 License
 No license SAWFGRAGWF
